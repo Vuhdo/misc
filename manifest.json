@@ -1,0 +1,15 @@
+{
+  "name": "VuhdoPlays",
+  "short_name": "VuhdoPlays",
+  "start_url": "/misc/",
+  "scope": "/misc/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/misc/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wows on VuhdoPlays</title>
+    <link>https://vuhdo.github.io/misc/wow/</link>
+    <description>Recent content in Wows on VuhdoPlays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Thu, 02 Sep 2021 14:41:25 +0500</lastBuildDate><atom:link href="https://vuhdo.github.io/misc/wow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сильвана</title>
+      <link>https://vuhdo.github.io/misc/wow/sylvanas/</link>
+      <pubDate>Thu, 02 Sep 2021 14:41:25 +0500</pubDate>
+      
+      <guid>https://vuhdo.github.io/misc/wow/sylvanas/</guid>
+      <description>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true}; Сильвана Ветрокрылая (Sylvanas Windrunner) #   Гайд Wowhead: https://ru.wowhead.com/guides/sylvanas-windrunner-sanctum-of-domination-normal-heroic-strategy-guide#quick-tips Гайд IV Гайд Mythic Trap Видео на русском Журнал сражений: https://ru.wowhead.com/npc=175732/%D1%81%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D0%B0-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%BA%D1%80%D1%8B%D0%BB%D0%B0%D1%8F/%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB-%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9 Complexity Limit:  Видео гайд: https://www.youtube.com/watch?v=MpEzt116QVI Текстовый гайд: https://complexity.gg/heroic-sylvanas-windrunner-boss-guide/ Разъяснения от самого Макса: https://www.youtube.com/watch?v=Lah7TYKqGss    Фаза 1 (длится от 100% хп до 83-84% хп): #   Сильвана периодически выполняет комбо https://ru.wowhead.com/spell=347504/windrunner , прыгая по всей платформе и нанося разнообразный урон по рейду:  Хоть босс и прыгает по платформе как обезьяна, ее хитбокс остается в точке, где она использовала данную способность - бить ее можно как обычно.</description>
+    </item>
+    
+  </channel>
+</rss>
